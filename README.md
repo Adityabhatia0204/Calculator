@@ -1,5 +1,5 @@
 Calculator Project
-I developed a fully functional calculator using HTML, CSS, and JavaScript. 
+I developed a fully functional calculator using HTML, CSS. 
 This project demonstrates my understanding of front-end web development, particularly in creating responsive
 and interactive user interfaces. 
 The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division.
